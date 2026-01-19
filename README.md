@@ -11,3 +11,4 @@ Modificación 2: Utilizar la aplicación
 
 Los archivos que contienen la gasolinera que se guardo en la carpeta:
 
+<img width="698" height="285" alt="image" src="https://github.com/user-attachments/assets/b1d28c95-d805-4fdf-86d4-c4ae654e3460" />
